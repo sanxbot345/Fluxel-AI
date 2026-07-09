@@ -1,0 +1,6 @@
+{
+  "name": "Fluxel AI Chat",
+  "description": "A Fluxel AI assistant chat application with streaming response support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
